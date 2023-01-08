@@ -1,0 +1,7 @@
+name = "redirect-notion-worker"
+main = "src/index.ts"
+compatibility_date = "2023-01-08"
+
+[vars]
+BASE_URL = "https://jedeop.notion.site"
+MAIN_ID = "25798562d6694bf2ade4101557e72bdf"
